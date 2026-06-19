@@ -1,0 +1,82 @@
+{
+  "R0001": {
+    "id": "R0001",
+    "subject": "EMP001",
+    "predicate": "belongs_to",
+    "object": "dept_技术研发",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.005780"
+  },
+  "R0002": {
+    "id": "R0002",
+    "subject": "EMP001",
+    "predicate": "has_position",
+    "object": "pos_高级工程师",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.006213"
+  },
+  "R0003": {
+    "id": "R0003",
+    "subject": "EMP002",
+    "predicate": "belongs_to",
+    "object": "dept_产品",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.007892"
+  },
+  "R0004": {
+    "id": "R0004",
+    "subject": "EMP002",
+    "predicate": "has_position",
+    "object": "pos_产品经理",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.008269"
+  },
+  "R0005": {
+    "id": "R0005",
+    "subject": "EMP003",
+    "predicate": "belongs_to",
+    "object": "dept_市场",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.010027"
+  },
+  "R0006": {
+    "id": "R0006",
+    "subject": "EMP003",
+    "predicate": "has_position",
+    "object": "pos_市场总监",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.010443"
+  },
+  "R0007": {
+    "id": "R0007",
+    "subject": "EMP004",
+    "predicate": "belongs_to",
+    "object": "dept_财务",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.012312"
+  },
+  "R0008": {
+    "id": "R0008",
+    "subject": "EMP004",
+    "predicate": "has_position",
+    "object": "pos_财务主管",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.012732"
+  },
+  "R0009": {
+    "id": "R0009",
+    "subject": "EMP005",
+    "predicate": "belongs_to",
+    "object": "dept_人力资源",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.016045"
+  },
+  "R0010": {
+    "id": "R0010",
+    "subject": "EMP005",
+    "predicate": "has_position",
+    "object": "pos_HR经理",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.016676"
+  }
+}

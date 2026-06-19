@@ -1,0 +1,142 @@
+{
+  "EMP001": {
+    "id": "EMP001",
+    "type": "person",
+    "name": "张三",
+    "properties": {
+      "department": "技术研发部",
+      "position": "高级工程师",
+      "salary": 25000
+    },
+    "created_at": "2026-06-19T14:04:26.004457",
+    "updated_at": "2026-06-19T14:04:26.004476"
+  },
+  "dept_技术研发": {
+    "id": "dept_技术研发",
+    "type": "department",
+    "name": "技术研发部",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.004999",
+    "updated_at": "2026-06-19T14:04:26.005002"
+  },
+  "pos_高级工程师": {
+    "id": "pos_高级工程师",
+    "type": "position",
+    "name": "高级工程师",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.005433",
+    "updated_at": "2026-06-19T14:04:26.005436"
+  },
+  "EMP002": {
+    "id": "EMP002",
+    "type": "person",
+    "name": "李四",
+    "properties": {
+      "department": "产品部",
+      "position": "产品经理",
+      "salary": 22000
+    },
+    "created_at": "2026-06-19T14:04:26.006604",
+    "updated_at": "2026-06-19T14:04:26.006607"
+  },
+  "dept_产品": {
+    "id": "dept_产品",
+    "type": "department",
+    "name": "产品部",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.007049",
+    "updated_at": "2026-06-19T14:04:26.007052"
+  },
+  "pos_产品经理": {
+    "id": "pos_产品经理",
+    "type": "position",
+    "name": "产品经理",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.007471",
+    "updated_at": "2026-06-19T14:04:26.007474"
+  },
+  "EMP003": {
+    "id": "EMP003",
+    "type": "person",
+    "name": "王五",
+    "properties": {
+      "department": "市场部",
+      "position": "市场总监",
+      "salary": 30000
+    },
+    "created_at": "2026-06-19T14:04:26.008681",
+    "updated_at": "2026-06-19T14:04:26.008684"
+  },
+  "dept_市场": {
+    "id": "dept_市场",
+    "type": "department",
+    "name": "市场部",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.009127",
+    "updated_at": "2026-06-19T14:04:26.009129"
+  },
+  "pos_市场总监": {
+    "id": "pos_市场总监",
+    "type": "position",
+    "name": "市场总监",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.009576",
+    "updated_at": "2026-06-19T14:04:26.009579"
+  },
+  "EMP004": {
+    "id": "EMP004",
+    "type": "person",
+    "name": "赵六",
+    "properties": {
+      "department": "财务部",
+      "position": "财务主管",
+      "salary": 28000
+    },
+    "created_at": "2026-06-19T14:04:26.010857",
+    "updated_at": "2026-06-19T14:04:26.010860"
+  },
+  "dept_财务": {
+    "id": "dept_财务",
+    "type": "department",
+    "name": "财务部",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.011333",
+    "updated_at": "2026-06-19T14:04:26.011336"
+  },
+  "pos_财务主管": {
+    "id": "pos_财务主管",
+    "type": "position",
+    "name": "财务主管",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.011827",
+    "updated_at": "2026-06-19T14:04:26.011829"
+  },
+  "EMP005": {
+    "id": "EMP005",
+    "type": "person",
+    "name": "孙七",
+    "properties": {
+      "department": "人力资源部",
+      "position": "HR经理",
+      "salary": 26000
+    },
+    "created_at": "2026-06-19T14:04:26.013555",
+    "updated_at": "2026-06-19T14:04:26.013561"
+  },
+  "dept_人力资源": {
+    "id": "dept_人力资源",
+    "type": "department",
+    "name": "人力资源部",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.014442",
+    "updated_at": "2026-06-19T14:04:26.014446"
+  },
+  "pos_HR经理": {
+    "id": "pos_HR经理",
+    "type": "position",
+    "name": "HR经理",
+    "properties": {},
+    "created_at": "2026-06-19T14:04:26.015238",
+    "updated_at": "2026-06-19T14:04:26.015242"
+  }
+}

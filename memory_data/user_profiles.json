@@ -1,0 +1,112 @@
+{
+  "test_user": {
+    "user_id": "test_user",
+    "first_seen": "2026-06-19T13:21:06.262880",
+    "interaction_count": 3,
+    "preferences": {
+      "回复风格": "简洁直接"
+    },
+    "topics_discussed": [
+      "请记住我的回复风格是简洁直接",
+      "查询我的用户画像",
+      "查看我最近的对话历史"
+    ],
+    "tools_used": [],
+    "last_active": "2026-06-19T13:21:14.349578"
+  },
+  "user1": {
+    "user_id": "user1",
+    "first_seen": "2026-06-19T13:26:37.481448",
+    "interaction_count": 26,
+    "preferences": {},
+    "topics_discussed": [
+      "公司的考勤制度是什么？",
+      "查询张三的员工信息",
+      "帮我申请2天事假，从6月20日到6月21日，原因是家里有事",
+      "生成员工统计报表",
+      "我的电脑无法开机，帮我创建IT工单",
+      "帮我创建一个请假审批流程，申请人张三，请假3天，审批人是李四",
+      "查询待审批的流程",
+      "帮我创建一个每天早上9点发送工作日报的定时任务",
+      "公司的请假制度是什么？",
+      "报销流程是什么？",
+      "我的电脑无法开机怎么办？",
+      "分析员工分布情况",
+      "分析费用支出趋势",
+      "分析项目进度情况",
+      "支持哪些文档格式？",
+      "把你好世界转换成语音",
+      "获取仪表盘数据",
+      "查询知识图谱统计"
+    ],
+    "tools_used": [
+      {
+        "tool": "query_employee",
+        "timestamp": "2026-06-19T13:26:43.055214"
+      },
+      {
+        "tool": "get_current_time",
+        "timestamp": "2026-06-19T13:26:47.757945"
+      },
+      {
+        "tool": "query_employee",
+        "timestamp": "2026-06-19T13:26:47.758840"
+      },
+      {
+        "tool": "generate_report",
+        "timestamp": "2026-06-19T13:26:52.979332"
+      },
+      {
+        "tool": "get_current_time",
+        "timestamp": "2026-06-19T13:32:29.595164"
+      },
+      {
+        "tool": "query_employee",
+        "timestamp": "2026-06-19T13:32:29.596214"
+      },
+      {
+        "tool": "get_current_time",
+        "timestamp": "2026-06-19T13:32:47.600921"
+      },
+      {
+        "tool": "query_employee",
+        "timestamp": "2026-06-19T13:32:47.601862"
+      },
+      {
+        "tool": "get_current_time",
+        "timestamp": "2026-06-19T13:32:58.832670"
+      }
+    ],
+    "last_active": "2026-06-19T14:06:37.399927"
+  },
+  "user2": {
+    "user_id": "user2",
+    "first_seen": "2026-06-19T13:26:56.674629",
+    "interaction_count": 2,
+    "preferences": {
+      "回复风格": "简洁直接"
+    },
+    "topics_discussed": [
+      "记住我喜欢简洁直接的回复风格",
+      "查询我的用户画像"
+    ],
+    "tools_used": [],
+    "last_active": "2026-06-19T13:27:00.463146"
+  },
+  "web_user": {
+    "user_id": "web_user",
+    "first_seen": "2026-06-19T13:29:41.400278",
+    "interaction_count": 2,
+    "preferences": {},
+    "topics_discussed": [
+      "电脑无法开机，帮我创建工单"
+    ],
+    "tools_used": [
+      {
+        "tool": "query_employee",
+        "timestamp": "2026-06-19T13:29:42.270451"
+      }
+    ],
+    "last_active": "2026-06-19T13:40:07.410551"
+  }
+}
